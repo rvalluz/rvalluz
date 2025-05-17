@@ -1,4 +1,4 @@
-**`Desenvolvedor FullStack`**
+**`DESENVOLVEDOR FULL STACK`**
 
 Olá, meu nome é Rafael, sou um profissional de desenvolvimento, estou em constante evolução para transformar suas ideias em código, oferecendo ferramentas práticas para o seu dia a dia. Vejo na tecnologia a força motriz para aprimorar processos e desenvolver soluções inéditas. Se você procura um profissional dedicado e com visão de futuro, entre em contato, vamos conversar sobre como posso ajudar a concretizar suas ideias e impulsionar seus resultados.
        
@@ -8,7 +8,7 @@ Olá, meu nome é Rafael, sou um profissional de desenvolvimento, estou em const
 
 ---
 ###
-**`Linguagens e Tecnologias`**
+**` LINGUAGENS E TECNOLOGIA `**
 
 <img 
        align="left"
