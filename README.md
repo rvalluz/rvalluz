@@ -42,13 +42,6 @@ Olá, meu nome é Rafael, sou um profissional de desenvolvimento, estou em const
 />
 <img 
        align="left"
-       alt="Java"
-       title="Java"
-       width="50px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-       align="left"
        alt="MYSQL"
        title="MYSQL"
        width="50px"
