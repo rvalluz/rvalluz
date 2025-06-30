@@ -1,8 +1,8 @@
 **`DESENVOLVEDOR FULL STACK`**
 
-Olá, sou Rafael, trabalhei muitos anos com assistencia técnica, consertando, PC, Notebooks e até Impressoras, mas decidi migrar para a area de desenvolvimento era um sonho e agora estou concretizando.
+Olá, sou Rafael, trabalhei muitos anos com Assistencia Técnica, consertando, PC, Notebooks e até Impressoras, mas decidi migrar para a area de desenvolvimento. Era um sonho e agora estou concretizando.
 
-Conheci a Treina Recife e comecei minha jornada, fiz o curso Lógica com Python e decidir usar essa lingagens em meus projetos.
+Conheci a Treina Recife e comecei minha jornada, fiz o curso de Java e em seguida fiz o de Lógica com Python e decidir usar essa lingagem em meus projetos.
 
 Atualmente estou estudando inglês, html, css e javascript, para fazer projetos Freelance.
 
