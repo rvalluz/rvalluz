@@ -1,6 +1,12 @@
 **`DESENVOLVEDOR FULL STACK`**
 
-Olá, meu nome é Rafael, sou um profissional de desenvolvimento, estou em constante evolução para transformar suas ideias em código, oferecendo ferramentas práticas para o seu dia a dia. Vejo na tecnologia a força motriz para aprimorar processos e desenvolver soluções inéditas. Se você procura um profissional dedicado e com visão de futuro, entre em contato, vamos conversar sobre como posso ajudar a concretizar suas ideias e impulsionar seus resultados.
+Olá, sou Rafael, trabalhei muitos anos com assistencia técnica, consertando, PC, Notebooks e até Impressoras, mas decidi migrar para a area de desenvolvimento era um sonho e agora estou concretizando.
+
+Conheci a Treina Recife e comecei minha jornada, fiz o curso Lógica com Python e decidir usar essa lingagens em meus projetos.
+
+Atualmente estou estudando inglês, html, css e javascript, para fazer projetos Freelance.
+
+Gostei bastante da área de automação, e fiz um chatbot para telegram e whatsapp, e pretendo fazer algumas para trabalhos rotineiros, envolvendo planilhas e email.
        
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581997213514?text=Ol%C3%A1,+gostaria+de+saber+mais+sobre+seus+servi%C3%A7os!)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rval.luz@gmail.com)
