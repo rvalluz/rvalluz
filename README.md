@@ -2,8 +2,6 @@
 
 Olá, sou Rafael, trabalhei muitos anos com Assistencia Técnica e decidi migrar para a area de desenvolvimento.
 
-Conheci a Treina Recife e comecei minha jornada, fiz o curso de Python e N8N daí decidir usar essas ferramentas em meus projetos.
-
 Atualmente estou estudando inglês(visando vagas no exterior) e html, css + javascript(para fazer projetos Freelance).
 
 Em meu potifólio terá app de automação, sistemas web, desktop e mobile feitos em python.
