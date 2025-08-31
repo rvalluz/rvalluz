@@ -1,6 +1,6 @@
 **`DESENVOLVEDOR FULL STACK`**
 
-Olá, sou Rafael, trabalhei muitos anos com Assistencia Técnica, consertando PC, Notebooks e até Impressoras, mas, decidi migrar para a area de desenvolvimento. Era um sonho e agora estou concretizando.
+Olá, sou Rafael, trabalhei muitos anos com Assistencia Técnica e decidi migrar para a area de desenvolvimento.
 
 Conheci a Treina Recife e comecei minha jornada, fiz o curso de Python e N8N daí decidir usar essas ferramentas em meus projetos.
 
