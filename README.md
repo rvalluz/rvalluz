@@ -1,4 +1,4 @@
-**`DESENVOLVEDOR FULL STACK`**
+**`Estudante em Python FULL`**
 
 Olá, sou Rafael, estudante de programação Python, seja bem vindo a meu repositório.
 
@@ -27,13 +27,6 @@ Aqui irei postar projetos em back-end com django e front-end usando o bootstrap.
        width="50px"
        style="padding-right:10 px;"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-       align="left"
-       alt="JavasScript"
-       title="JavasScript"
-       width="50px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
        align="left"
