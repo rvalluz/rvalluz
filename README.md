@@ -1,10 +1,8 @@
 **`DESENVOLVEDOR FULL STACK`**
 
-Olá, sou Rafael, trabalhei muitos anos com Assistencia Técnica e decidi migrar para a area de desenvolvimento.
+Olá, sou Rafael, estudante de programação Python, seja bem vindo a meu repositório.
 
-Atualmente estou estudando inglês(visando vagas no exterior) e html, css + javascript(para fazer projetos Freelance).
-
-Em meu potifólio terá app de automação, sistemas web, desktop e mobile feitos em python.
+Aqui irei postar projetos em back-end com django e front-end usando o bootstrap.
        
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581997213514?text=Ol%C3%A1,+gostaria+de+saber+mais+sobre+seus+servi%C3%A7os!)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rval.luz@gmail.com)
